@@ -35,6 +35,7 @@
 
    ```sh
    git clone https://github.com/Va4S/mgc_test
+   cd mgc_test
    cd user-management
    ```
 
